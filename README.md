@@ -1,6 +1,8 @@
 # Pose-Estimation
 
-Single-Person pose estimation, it detects 33 different landmarks within a human body and all of this is done in the real time.
+Single-Person pose estimation, it detects 33 different landmarks within a human body and all of this is done in the real time. 
+
+Pose estimation is a computer vision technique that predicts and tracks the location of a person or object. This is done by looking at a combination of the pose and the orientation of a given person/object.
 
 
 There are various application of this model:
